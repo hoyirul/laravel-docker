@@ -56,7 +56,7 @@ return [
         'gcs' => [
             'driver' => 'gcs',
             'project_id' => env('GOOGLE_CLOUD_PROJECT_ID', 'hairullah-project'),
-            'key_file' => env('GOOGLE_APPLICATION_CREDENTIALS', '/Applications/MAMP/htdocs/app/bookstore-app/hairullah-project-56431d962189.json'), // optional: /path/to/service-account.json
+            'key_file' => env('GOOGLE_APPLICATION_CREDENTIALS', 'https://storage.googleapis.com/laravel-bookstore-app/hairullah-project-56431d962189.json'), // optional: /path/to/service-account.json
             'bucket' => env('GOOGLE_CLOUD_STORAGE_BUCKET', 'laravel-bookstore-app'),
             'path_prefix' => env('GOOGLE_CLOUD_STORAGE_PATH_PREFIX', null), // optional: /default/path/to/apply/in/bucket
             'storage_api_uri' => env('GOOGLE_CLOUD_STORAGE_API_URI', 'https://storage.cloud.google.com/laravel-bookstore-app/'), // see: Public URLs below

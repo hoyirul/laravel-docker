@@ -71,7 +71,7 @@ class BookController extends Controller
         ]);
 
         if($request->file('cover_image')){
-            $cover_image = $request->file('cover_image')->store('book', 'public');
+            $cover_image = $request->file('cover_image')->store('bucket-book', 'public');
         }
 
         $googleConfigFile = file_get_contents(env('GOOGLE_APPLICATION_CREDENTIALS'));
@@ -168,7 +168,7 @@ class BookController extends Controller
         $cover_image = null;
 
         if($request->cover_image != null){
-            $cover_image = $request->file('cover_image')->store('book', 'public');
+            $cover_image = $request->file('cover_image')->store('bucket-book', 'public');
         }
 
         Book::where('id', $id)->update([
