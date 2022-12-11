@@ -15,10 +15,10 @@ services:
     networks:
       - laravel
 
-  mariadb:
+  mysql:
     image: mariadb:10.2
     ports:
-      - "3307:3307"
+      - "3306:3306"
     volumes:
       - ./docker/mysql:/var/lib/mysql
     networks:
@@ -28,9 +28,6 @@ services:
       MYSQL_USER: homestead
       MYSQL_PASSWORD: secret
       MYSQL_ROOT_PASSWORD: secret
-      SERVICE_TAGS: dev
-      SERVICE_NAME: mysql
-      MYSQL_TCP_PORT: 3307
 
   nginx:
     image: nginx:1.19.0-alpine
