@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "hairullah-project",
+    "private_key_id": "56431d96218935cae3d9efffd453ac9df387d7e0",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqpq2m+9+DkPdb\ny+nEtM8DrBwuqzLXOA864mcN0ZAPmeQqiOnlVr0mltAyyXbmw63hqMm4A15Ox+r4\n5wD2wPXsf0Ey0JqL4/b1V0isaroL2BmJUfFh4k6s5aB4YnW+J0ApHSCcggdbZXcs\nQfmiDoyTr36XcRi6Ue66mokNuQhkHKLCGJ616OvA6Pr3S5Xq3epehIzyTMWKTY5D\n84UZwpuQik2y5zpV0XliWCMCK/XCgNToKYgh0/dcUiPeBtvdlQk5jveo0HFcxuB8\nwza8q/+lsF12I70wmb8MQeBnySm9Pm9Vtqkc++qDDM+dHPBFzHgg4UbuVuogCmqU\nuWYbPtSxAgMBAAECggEABR3cRQ52RC6bjBAQIUq+jkCh07BkZNmUc1KIfnyTEjSu\nB6x1PuAb6cVJ1sv9mauyUfrKmY7YTApofDAI8l0UwpOKM+jXSWx7Yh3M2waUL3i6\nQ0jGsQWlEEAOUK27FAl/PfxWlvq7F71yFkygHIDNLDxt0kKc2DFOtB+gDl5G5yF8\nFjdU1xpgTzxtqyo0e6mioGmpIdfXrvqs6gtgWSgXkdsHLZlZD+IAav7Ge2rAMJGe\n9BUV1I1ITbOB210KaZS5ta5ToDALrZc1STIIUcYDsmC1TVhLxrrrUO1pQzJ/43kc\nTER8iCCKSHO1BDJwxGHYd/vJ4dUCVqC/q+pP/yEalQKBgQDkn4ODzLwuV2D4Swqr\nvfULTexhxLuIzFXjIY1NneT/AK/qRxNfveTENUCdhg+fHbuVmIN2P7vRUa987D8b\nF5Eplar/5c2Sqv3y7vP8T2ny0OPWZjz/pMy9fyH3TsbS05cef/rHcwPnOUAa0xsz\nJ6xs/LytEJflH0FllYkDUe4u3wKBgQC/FgVmJ/EEmHdY10Ms5V7eBC4uG9pBdJK3\nKBf/ZOEI1NLT5r5FhfAOSbpwfBSSqTmE61QBQS8YwU/7YfbxjCckPqiFLcDV4gDV\nh6UUq7+1fhwrmUTJZe3Un+ukwHMmlRofR38RItvzARrQKQ01QkNeaYxznQLfh50T\ngG3CWrG+bwKBgQCbLVYz6Iw2HCL6hNzaU1X29U4j0kfEA4WsZAKoEyrylsHQj6ur\nyZV0Q/z2rp79zk2brWhVo87UtdAaR7RRrD5gbnEhvhY5ngw+j0hWEoUERhrPVJfE\noVRCrv8cAIFdajbhgdZy+DNHB4nmazHEGAKl+yoJggDHiN53l/bmpP65GwKBgCUA\ny6zboTWlnL7seIqyJCvUHWk6ZYp1W4/ySKthSp6eL/Fu5nuqEzGBH4R20rkP4h6W\nP586kzc1ABsK/noKDO5c399iW8xPRqAS82nMVIR91lCvDn39qg+ZpFU0G1hmWTej\nbbzQxk0JcrrKqE8e9NLMl7Evv4WvykAjh52yWGcrAoGBANj+fAz4OEUwfMevZDMR\n2zONeOqX4UNra2Er0BWKd5jZ6yXOrcieP2N45YXbV1VN2jyYhFcE05eDfJ+YTfYc\nXu0Ryj2Jqhyp7p8Z3NaBKTPpBXRpJLm/1bpqiQ4BK//g2HxlTH3rP9ZXpTkffp05\nxtVxua0KOvtklZh2ylv67HHN\n-----END PRIVATE KEY-----\n",
+    "client_email": "laravel-bookstore-app@hairullah-project.iam.gserviceaccount.com",
+    "client_id": "102569526546820415708",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/laravel-bookstore-app%40hairullah-project.iam.gserviceaccount.com"
+  }
